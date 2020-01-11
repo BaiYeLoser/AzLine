@@ -1,0 +1,8 @@
+name: AzLine
+version: ${project.version}
+main: io.github.Azitate.AzLine
+prefix: AzLine
+depend: [MultiLineAPI, PlaceholderAPI]
+softdepend: [Citizens, MythicMobs]
+commands:
+  azl:

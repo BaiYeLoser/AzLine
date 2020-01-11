@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.iso2013.mlapi:MultiLineAPI:2.1.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/iso2013/mlapi/MultiLineAPI/2.1.2-SNAPSHOT/MultiLineAPI-2.1.2-20200103.083138-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/iso2013/mlapi/MultiLineAPI/2.1.2-SNAPSHOT/MultiLineAPI-2.1.2-20200103.083138-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/iso2013/mlapi/MultiLineAPI/2.1.2-SNAPSHOT/MultiLineAPI-2.1.2-20200103.083138-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

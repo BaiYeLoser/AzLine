@@ -1,0 +1,35 @@
+#玩家配置
+player:
+  #名字样式
+  name: '&b<name>&c[后缀]'
+  #更新时间 单位毫秒
+  update: 1000
+  #
+  tags:
+    - '时间 %server_time_M月dd日 HH:mm:ss%'
+    - '负载 %server_tps%'
+    - '测试 %player_time%'
+
+#mm配置
+mythic-mobs:
+  #名字样式
+  name: '&b<name>&c[BOSS]'
+  #更新时间 单位毫秒
+  update: 1000
+  #
+  tags:
+    - '时间 %server_time_M月dd日 HH:mm:ss%'
+    - '负载 %server_tps%'
+    - '测试 %player_time%'
+
+#npc暂不支持
+citizens:
+  #名字样式
+  name: '&b<name>&c[NPC]'
+  #更新时间 单位毫秒
+  update: 1000
+  #
+  tags:
+    - '时间 %server_time_M月dd日 HH:mm:ss%'
+    - '负载 %server_tps%'
+    - '测试 %player_time%'
